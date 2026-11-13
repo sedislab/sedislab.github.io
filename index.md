@@ -44,7 +44,7 @@ Through these research directions, we aim to bridge the gap between intelligent 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
