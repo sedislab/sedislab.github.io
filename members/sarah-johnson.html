@@ -288,8 +288,90 @@
 
 
 <!-- include all css in styles folder -->
+</head>
+<body>
+<p>
 
 
+
+
+/* =====================================
+   SeDIS Lab Footer Layout
+   ===================================== */
+
+footer .sedis-footer-info {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  align-items: start;
+  gap: 60px;
+
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto 30px;
+  padding: 30px 40px;
+
+  box-sizing: border-box;
+}
+
+/* Contact Information - Left */
+
+footer .sedis-footer-contact {
+  text-align: left !important;
+  justify-self: start;
+}
+
+/* Address - Right */
+
+footer .sedis-footer-address {
+  text-align: left !important;
+  justify-self: end;
+}
+
+/* Section Headings */
+
+footer .sedis-footer-info h3 {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0 0 20px;
+}
+
+/* Paragraphs */
+
+footer .sedis-footer-info p {
+  margin: 0 0 12px;
+  line-height: 1.7;
+}
+
+/* Links */
+
+footer .sedis-footer-info a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+footer .sedis-footer-info a:hover {
+  color: #e2b66d;
+}
+
+/* =====================================
+   Mobile Responsive Layout
+   ===================================== */
+
+@media (max-width: 768px) {
+
+  footer .sedis-footer-info {
+    grid-template-columns: 1fr !important;
+    gap: 30px;
+    padding: 20px;
+  }
+
+  footer .sedis-footer-contact,
+  footer .sedis-footer-address {
+    text-align: left !important;
+    justify-self: stretch;
+  }
+
+}
 
   <!-- third party scripts -->
 <script src="https://unpkg.com/@popperjs/core@2" defer></script>
@@ -314,9 +396,9 @@
   <script src="/_scripts/tooltip.js"></script>
 
 
-</head>
 
-  <body>
+
+  </p>
     
 
 
@@ -647,5 +729,6 @@
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
-  </body>
+  
+</body>
 </html>
