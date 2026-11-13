@@ -69,7 +69,7 @@ Explore our research projects below to learn more about their objectives, techni
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
