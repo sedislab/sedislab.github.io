@@ -11,10 +11,7 @@ The Secured and Dependable Intelligent Systems (SeDIS) Laboratory is dedicated t
 ## Highlights
 {% capture text %}
 
-At the SeDIS Lab, our research projects address fundamental challenges in ensuring the safety, security, and dependability of intelligent cyber-physical systems. We develop innovative theories, algorithms, and practical tools that advance formal verification, trustworthy artificial intelligence, explainable fault diagnosis, and cybersecurity. Our projects combine theoretical foundations with experimental validation to address real-world challenges in robotics, autonomous systems, edge computing, and other safety-critical applications.
-
-Explore our research projects below to learn more about their objectives, technical approaches, and expected contributions.
-
+The Secured and Dependable Intelligent Systems (SeDIS) lab in the Department of Electrical and Computer Engineering Department of Baylor University is directed by Dr. Ernest Bonnah and located in the Baylor Research and Innovation Collaborative (BRIC) building. The SeDIS Laboratory focuses on investigating and proposing theories, methods, tools, and protocols for supporting modeling, design, formal verification and securing         complex, intelligent, and dependable  embedded as well as cyber-physical systems (CPS). The primary aim of SeDIS lab is to enhance the quality of service, reliability, safety, and security of complex computing systems.
 {% include button.html link="projects" text="Browse our projects" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
 
 {% endcapture %}
