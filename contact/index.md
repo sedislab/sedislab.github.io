@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: News
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Happenings in SeDIS Lab
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
