@@ -16,7 +16,7 @@ The Secured and Dependable Intelligent Systems (SeDIS) lab in the Department of 
 
 {% endcapture %}
 
-{% include feature.html image="images/bric.jpg" link="projects" title="About" flip=true style="bare" text=text %}
+{% include feature.html image="images/bric.jpg" link="news" title="About" flip=true style="bare" text=text %}
 
 
 {% capture text %}
