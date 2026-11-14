@@ -1,7 +1,7 @@
 ---
-title: News
+title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Happenings in SeDIS Lab
 ---
 
