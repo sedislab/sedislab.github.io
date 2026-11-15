@@ -24,7 +24,7 @@ flip=true style="bare"
 include feature.html 
 image="images/bric.jpg" 
 link="news" 
-title="News" 
+title="About" 
 flip=true 
 style="bare" text=text %}
 
