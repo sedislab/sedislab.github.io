@@ -104,7 +104,7 @@ The SeDIS Lab brings together a diverse team of researchers and students passion
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
