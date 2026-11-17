@@ -11,8 +11,13 @@ The SeDIS Lab brings together a diverse team of researchers and students passion
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'masters'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
