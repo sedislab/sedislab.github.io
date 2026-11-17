@@ -2,6 +2,7 @@
 name: Paapa K. Quansah
 image: images/paapa_profpic.jpg
 role: phd
+order: 2
 group: alum
 links:
   github: paapa-quansah
