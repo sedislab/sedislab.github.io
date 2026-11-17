@@ -1,6 +1,6 @@
 ---
 name: H M Mohaimanul Islam
-image: images/photo.jpg
+image: images/islam.jpg
 role: phd
 group: alum
 links:
