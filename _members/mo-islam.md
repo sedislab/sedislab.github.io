@@ -1,8 +1,8 @@
 ---
 name: H M Mohaimanul Islam
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+role: phd
+group: alum
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
