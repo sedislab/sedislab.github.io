@@ -1,11 +1,11 @@
 ---
-name: Jane Smith
+name: Ernest Bonnah, Ph.D.
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Baylor University 
 aliases:
-  - J. Smith
-  - J Smith
+  - E. Bonnah
+  - E Bonnah
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
