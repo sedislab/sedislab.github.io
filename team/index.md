@@ -24,7 +24,7 @@ The SeDIS Lab brings together a diverse team of researchers and students passion
 {% capture content %}
 
 {% include portrait.html lookup="paapa-quansah" %}
-{% include portrait.html lookup="mo" %}
+{% include portrait.html lookup="mohaimanul-islam" %}
 {% include portrait.html lookup="abena-anning" %}
 
 {% endcapture %}
