@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Paapa K. Quansah
 image: images/photo.jpg
 role: phd
 group: alum
