@@ -15,7 +15,9 @@ The SeDIS Lab brings together a diverse team of researchers and students passion
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Graduate Students
+<h2 style="text-align: center; font-size: 40px; font-weight: 600; color: white;">
+  Graduate Students
+</h2>
 
 {% include section.html %}
 
