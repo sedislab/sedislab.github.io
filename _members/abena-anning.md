@@ -1,6 +1,6 @@
 ---
 name: Abena Anning
-image: images/photo.jpg
+image: images/abena.jpg
 role: phd
 group: alum
 links:
