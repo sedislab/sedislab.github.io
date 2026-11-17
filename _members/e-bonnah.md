@@ -2,6 +2,7 @@
 name: Ernest Bonnah, Ph.D.
 image: images/PI_prof.jpg
 role: principal-investigator
+order: 1
 affiliation: Baylor University 
 aliases:
   - E. Bonnah
@@ -9,9 +10,6 @@ aliases:
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
-nav:
-  order: 1
-  tooltip: About PI
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
