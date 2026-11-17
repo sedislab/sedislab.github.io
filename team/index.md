@@ -21,9 +21,9 @@ Graduate Students
 
 {% capture content %}
 
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-
-{% include list.html data="members" component="portrait" filter="role == 'masters'" %}
+{% include portrait.html lookup="paapa-quansah" %}
+{% include portrait.html lookup="mo" %}
+{% include portrait.html lookup="abena-anning" %}
 
 {% endcapture %}
 
