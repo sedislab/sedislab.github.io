@@ -1,6 +1,6 @@
 ---
 name: Paapa K. Quansah
-image: images/photo.jpg
+image: images/paapa_profpic.jpg
 role: phd
 group: alum
 links:
