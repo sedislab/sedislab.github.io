@@ -7,15 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<h2> Opening</h2>
+<hr>
+<p>
+There is currently no opening in the Secured and Dependable Intelligent Systems (SeDIS) Lab at the Department of Electrical and Computer Engineering of Baylor University, Waco, Texas, USA.
 
-{% include section.html %}
-
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
+</p>
+ 
