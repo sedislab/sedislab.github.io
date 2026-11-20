@@ -13,7 +13,7 @@ links:
 ---
 
 <div style="display: flow-root;" markdown="1">
-Dr. Bonnah is an Assistant Professor in Electrical and Computer Engineering at Baylor University and the Director of the Secured and Dependable Intelligent Systems (SeDIS) Lab. He received a Ph.D. degree in Electrical Engineering from University of Missouri-Columbia, Missouri, USA. He is a Senior Member of IEEE.
+Dr. Bonnah is an Assistant Professor in Electrical and Computer Engineering at Baylor University and the Director of the Secured and Dependable Intelligent Systems (SeDIS) Lab. He received a Ph.D. degree in Electrical and Computer Engineering from University of Missouri-Columbia, Missouri, USA. He is a Senior Member of IEEE.
 
 <p><b>Research Interests </b></p>
 - Formal Assurance of Learning-Enabled Autonomous Systems
