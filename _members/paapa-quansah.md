@@ -13,9 +13,9 @@ Paapa is a Ph.D. student in Electrical and Computer Engineering at Baylor Univer
 
 <p><b>Publications: </b></p>
 
-- Quansah, Paapa, Pablo Rivas, and Ernest Bonnah. "VERIFY: A Novel Multi-Domain Dataset Grounding LTL in Contextual Natural Language via Provable Intermediate Logic." International Conference on Learning Representations. Vol. 2026. 2026.
+- Paapa Kwesi Quansah, Pablo Rivas, and Ernest Bonnah. 2026. VERIFY: A Novel Multi-Domain Dataset Grounding LTL in Contextual Natural Language via Provable Intermediate Logic. In The Fourteenth International Conference on Learning Representations. https://openreview.net/forum?id=NChBLvOr7I
 
-- Quansah, P.K., Bonnah, E. "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic." In: Bocchi, L., Kulahcioglu Ozkan, B. (eds) Formal Techniques for Distributed Objects, Components, and Systems. FORTE 2026. Lecture Notes in Computer Science, vol 16589. Springer, Cham. https://doi.org/10.1007/978-3-032-28187-6_4
+- Quansah, P.K., Bonnah, E. 2026. "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic." In: Bocchi, L., Kulahcioglu Ozkan, B. (eds) Formal Techniques for Distributed Objects, Components, and Systems. FORTE 2026. Lecture Notes in Computer Science, vol 16589. Springer, Cham. https://doi.org/10.1007/978-3-032-28187-6_4
 
                       
 </div>
