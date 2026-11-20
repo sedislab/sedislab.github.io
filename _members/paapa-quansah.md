@@ -8,4 +8,7 @@ links:
   github: paapa-quansah
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ph.D. Student (Spring 2025-date)
+<p><b>Research Focus: </b>Formal Methods and Machine Learning for Cyber-Physical Systems</p>
+<p>B.Sc. Electrical Engineering, KNUST, Ghana</p>
+                       
