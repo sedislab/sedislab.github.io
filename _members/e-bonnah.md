@@ -1,6 +1,6 @@
 ---
 name: Ernest Bonnah, Ph.D.
-image: images/PI.png
+image: images/PI_Bonnah.png
 role: principal-investigator
 order: 1
 affiliation: Baylor University 
