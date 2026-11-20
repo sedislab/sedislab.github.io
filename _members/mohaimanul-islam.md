@@ -2,7 +2,7 @@
 name: H M Mohaimanul Islam
 image: images/islam.jpg
 role: phd
-year: "Spring 2025 - Present"
+year: "Spring 2026 - Present"
 group: alum
 links:
   github: mohaimanul-islam
