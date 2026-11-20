@@ -2,6 +2,7 @@
 name: Abena Aning
 image: images/abena.jpg
 role: phd
+year: "Fall 2026 - Present"
 group: alum
 links:
   github: abena-aning
