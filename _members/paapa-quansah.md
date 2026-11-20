@@ -5,7 +5,7 @@ role: phd
 order: 2
 group: alum
 links:
-  github: paapa-quansah
+  github: [paapa-quansah](https://scholar.google.com/citations?user=bVrcgiIAAAAJ&hl=en)
 ---
 <div style="display: flow-root;" markdown="1">
 Paapa is a Ph.D. student in Electrical and Computer Engineering at Baylor University. He holds a Bachelor's degrees in Electrical Engineering from Kwame Nkrumah University of Science and Technology (KNUST). Paapa's research focuses on formal methods and advanced machine learning for learning-enabled cyber-physical systems. His current work focuses on developing runtime assurance mechanisms for the verification, runtime monitoring, and adaptive reconfiguration methods for maintaining mission guarantees under adversarial behavior, communication degradation, and environmental uncertainties. His work also focuses on integrating of machine learning and symbolic reasoning for system health monitoring, fault localization, and interpretable diagnosis of failures in intelligent dynamical systems.
