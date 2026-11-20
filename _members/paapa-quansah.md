@@ -2,7 +2,7 @@
 name: Paapa K. Quansah
 image: images/paapa_profpic.jpg
 role: phd
-year: Spring 2024 - Present
+year: "Spring 2024 - Present"
 order: 2
 group: alum
 links:
