@@ -35,6 +35,19 @@ This research develops formal methods and computational frameworks for specifyin
 
 {% include section.html %}
 
-## More
+## Security and Privacy of Distributed Edge Intelligence and Learning-Enabled Cyber-Physical Systems
+<img
+  src="{{ '/images/ioat_research.png' | relative_url }}"
+  alt="Formal methods for robotics and CPS"
+  style="float: left; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
+/>
 
+<p>
+The growing integration of artificial intelligence, edge computing, and networked devices is transforming how cyber-physical systems (CPS) collect, process, and exchange information. By distributing intelligence across connected devices, these systems can make decisions closer to where data is generated, reducing communication delays and dependence on centralized computing infrastructure. However, their distributed nature introduces significant security and privacy challenges, including unauthorized data access, malicious model updates, compromised edge devices, and vulnerabilities arising from communication and resource constraints.
+</p>
+<p>
+This research develops security and privacy-preserving methods for distributed edge intelligence and learning-enabled cyber-physical systems. We investigate secure and decentralized computing architectures, privacy-preserving federated and continual learning, and mechanisms for detecting and mitigating malicious behavior in collaborative learning environments. Our work also examines how cyberattacks, compromised devices, and evolving operating conditions affect the reliability and performance of distributed intelligent systems.
+
+The long-term goal is to enable secure, privacy-preserving, and resilient distributed intelligence that can support trustworthy decision-making in autonomous robots, connected vehicles, Internet of Things (IoT) networks, and other mission-critical cyber-physical systems.
+</p>
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
