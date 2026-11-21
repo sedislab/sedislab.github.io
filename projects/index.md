@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The SeDIS Lab conducts research at the intersection of formal methods, artificial intelligence, and cybersecurity with the aim of bridging the gap between intelligent system capabilities and their dependable operation in real-world environments, with applications in robotics, autonomous systems, connected infrastructure, and other safety-critical technologies.
 
 {% include tags.html tags="publication, resource, website" %}
 
