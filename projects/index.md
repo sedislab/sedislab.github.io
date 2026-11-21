@@ -50,7 +50,7 @@ This research develops security and privacy-preserving methods for distributed e
 
 The long-term goal is to enable secure, privacy-preserving, and resilient distributed intelligence that can support trustworthy decision-making in autonomous robots, connected vehicles, Internet of Things (IoT) networks, and other mission-critical cyber-physical systems.
 </p>
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+<!--{% include list.html component="card" data="projects" filter="!group" style="small" %}-->
 
 
 {% include search-info.html %}
@@ -59,7 +59,7 @@ The long-term goal is to enable secure, privacy-preserving, and resilient distri
 
 ## Explainable AI for Root-Cause Diagnosis of Learning-Enabled Autonomous Systems
 <img
-  src="{{ '/images/explanableai_research.png' | relative_url }}"
+  src="{{ '/images/explanableai_research.jpg' | relative_url }}"
   alt="Formal methods for robotics and CPS"
   style="float: right; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
 />
