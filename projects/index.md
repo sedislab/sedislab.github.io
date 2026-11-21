@@ -51,3 +51,28 @@ This research develops security and privacy-preserving methods for distributed e
 The long-term goal is to enable secure, privacy-preserving, and resilient distributed intelligence that can support trustworthy decision-making in autonomous robots, connected vehicles, Internet of Things (IoT) networks, and other mission-critical cyber-physical systems.
 </p>
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+
+
+{% include search-info.html %}
+{% include section.html %}
+
+
+## Explainable AI for Root-Cause Diagnosis of Learning-Enabled Autonomous Systems
+<img
+  src="{{ '/images/explanableai_research.png' | relative_url }}"
+  alt="Formal methods for robotics and CPS"
+  style="float: right; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
+/>
+
+<p>
+Autonomous systems rely on interconnected sensing, perception, planning, and control components to operate safely and reliably. A failure in one component can propagate through the system, causing unexpected behavior and potentially compromising safety. Although existing fault detection methods can identify abnormal system behavior, determining the underlying cause of a failure remains challenging due to complex component interactions, feedback loops, and the dynamic nature of autonomous systems. Moreover, many AI-based diagnostic methods provide limited explanations of their predictions, making it difficult to understand why a failure occurred and how it propagated.
+</p>
+<p>
+This research develops explainable AI and causal reasoning methods for detecting, localizing, and diagnosing failures in autonomous systems. We investigate spatiotemporal graph learning, causal inference, counterfactual reasoning, and neurosymbolic approaches to model dependencies among system components and identify the origin of failures. Our work focuses on distinguishing root causes from downstream symptoms, determining when and where failures originate, and generating interpretable explanations that connect observed system behavior to underlying faults.
+
+The long-term goal is to develop trustworthy diagnostic frameworks that enable autonomous systems to understand and explain their failures, support timely recovery decisions, and improve operational safety and dependability. The research targets autonomous vehicles, robotic systems, and other safety-critical cyber-physical systems operating in complex and uncertain environments.
+</p>
+
+<!--{% include list.html component="card" data="projects" filter="group == 'featured'" %} -->
+
+{% include section.html %}
