@@ -21,7 +21,7 @@ The SeDIS Lab conducts research at the intersection of formal methods, artificia
 <img
   src="{{ '/images/carla_fm.png' | relative_url }}"
   alt="Formal methods for robotics and CPS"
-  style="float: right; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
+  style="float: left; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
 />
 
 <p>
@@ -61,7 +61,7 @@ The long-term goal is to enable secure, privacy-preserving, and resilient distri
 <img
   src="{{ '/images/explanableai_research.jpg' | relative_url }}"
   alt="Formal methods for robotics and CPS"
-  style="float: right; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
+  style="float: left; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
 />
 
 <p>
