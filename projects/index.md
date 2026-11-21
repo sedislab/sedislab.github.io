@@ -7,17 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-The SeDIS Lab conducts research at the intersection of formal methods, artificial intelligence, and cybersecurity with the aim of bridging the gap between intelligent system capabilities and their dependable operation in real-world environments, with applications in robotics, autonomous systems, connected infrastructure, and other safety-critical technologies.
+The SeDIS Lab conducts research at the intersection of formal methods, artificial intelligence, and cybersecurity with the aim of bridging the gap between intelligent system capabilities and their dependable operation in real-world environments, with applications in robotics, autonomous systems, connected infrastructure, and other safety-critical technologies. Here are some projects that we are currently working on.
 
+<!--
 <h3>Research Projects</h3>
 <p> Here are some projects that we are currently working on: </p>
-<!-- 
+ 
 {% include tags.html tags="publication, resource, website" %}
 {% include search-info.html %}
-{% include section.html %}
+{% include section.html %}-->
 
 
-## Research Projects
+## Formal assurance of Learning-Enabled Autonomous Systems
 <h4>Formal assurance of Learning-Enabled Autonomous Systems</h4>
 <br/><img src="images/fm_research1.jpg" class="float-right" alt="Formal methods for robotics and CPS"/>
 <p>
