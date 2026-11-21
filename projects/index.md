@@ -31,7 +31,7 @@ Learning-enabled autonomous systems increasingly rely on artificial intelligence
 This research develops formal methods and computational frameworks for specifying, verifying, and assuring the behavior of learning-enabled autonomous systems. We investigate temporal logic and hyperproperty-based techniques to capture safety, security, and performance requirements, including properties involving multiple system executions. Our work combines formal verification, runtime monitoring, and learning-based control to detect specification violations, assess system behavior, and support safe decision-making under uncertainty. The long-term goal is to establish rigorous assurance mechanisms that enable autonomous robots, intelligent vehicles, and other safety-critical cyber-physical systems to operate reliably under uncertainty and adversarial conditions.
 </p>
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+<!--{% include list.html component="card" data="projects" filter="group == 'featured'" %} -->
 
 {% include section.html %}
 
