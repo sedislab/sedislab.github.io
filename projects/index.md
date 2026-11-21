@@ -21,9 +21,10 @@ The SeDIS Lab conducts research at the intersection of formal methods, artificia
 ## Formal assurance of Learning-Enabled Autonomous Systems
 <img
   src="{{ '/images/carla_fm.png' | relative_url }}"
-  class="float-right"
-  alt="Formal methods for robotics and CPS"
-/>
+  alt="Formal Methods for Robotics and CPS"
+  style="float: right; width: 400px; max-width: 100%; margin: 10px 0 15px 20px;"
+>
+
 <p>
 Learning-enabled autonomous systems increasingly rely on artificial intelligence and machine learning to perceive their environments, make decisions, and perform complex tasks. However, the unpredictable behavior of learned models, environmental uncertainties, and adversarial conditions make it difficult to guarantee their safety, security, and reliability using conventional testing methods.
 </p>
