@@ -12,16 +12,16 @@ The SeDIS Lab conducts research at the intersection of formal methods, artificia
 <!--
 <h3>Research Projects</h3>
 <p> Here are some projects that we are currently working on: </p>
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, resource, website" %}-->
 {% include search-info.html %}
 {% include section.html %}
--->
+
 
 ## Formal assurance of Learning-Enabled Autonomous Systems
 <img
   src="{{ '/images/carla_fm.png' | relative_url }}"
   alt="Formal methods for robotics and CPS"
-  style="float: left; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
+  style="float: right; width: 40%; max-width: 450px; height: auto; margin: 0 25px 15px 0;"
 />
 
 <p>
